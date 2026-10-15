@@ -1,0 +1,6 @@
+{
+  "name": "The Hidden Mind",
+  "description": "Explore the hidden mechanisms of human behaviour. Discover research on the psychology of human behaviour, cognitive biases, and everyday social decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

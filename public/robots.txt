@@ -1,0 +1,5 @@
+# The Hidden Mind - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://thehiddenmind.vercel.app/sitemap.xml
